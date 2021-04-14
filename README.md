@@ -41,7 +41,7 @@ Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets for Visual studi
 
 ------
 
-🔎Minhas redes sociais: [Linkedin](https://www.linkedin.com/in/kerollainy-gomes/) | [Instagram](https://www.instagram.com/kelorainy/)
+Minhas redes sociais: [Linkedin](https://www.linkedin.com/in/kerollainy-gomes/) | [Instagram](https://www.instagram.com/kelorainy/)
 
 
 
